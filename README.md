@@ -16,7 +16,7 @@ Also writes an annotated **AVI** (or MP4) video.
 
 <img src="docs/demo.gif" width="720" alt="demo gif">
 
-> Add a 3–5s sample or GIF showing the indexed 33 landmarks. Avoid any private footage.
+> Add a 3–5s sample or GIF showing the indexed 33 landmarks. Avoid any private footage. -> Soon 
 
 ---
 
